@@ -37,3 +37,8 @@ button{
     cursor: pointer;
     background-color: #0984e3;
 }
+@media (min-width: 480px){
+    button{
+        background-color: red;    
+    }
+}
